@@ -3,5 +3,5 @@ Soy un apasionado del software libre y de linux en general, estudie análisis y 
 
 ## Puedes encontrarme en:
 
-- [LinkedIn](www.linkedin.com/in/oliver-gomez-backend-developer)
+- [LinkedIn](www.linkedin.com/in/oliverenriquegomez)
 - [Twitter](https://twitter.com/kaizerenrique)
