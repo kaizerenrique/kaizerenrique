@@ -4,7 +4,7 @@
 
 ## 🛠️ Tecnologías  
 - **Lenguajes**: PHP, Java, Bash.  
-- **Frameworks**: Laravel, Symfony.  
+- **Frameworks**: Laravel.  
 - **DevOps**: Nginx, VPS, Digitalocean.  
 
 ## 🚀 Proyectos destacados  
