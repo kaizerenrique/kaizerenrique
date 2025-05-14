@@ -1,7 +1,7 @@
 <h1 align="center">¡Saludos! Mi nombre es Oliver Gomez</h1>
 
 <p align="left">
-🔧 Backend Developer | PHP/Laravel | Linux SysAdmin  
+🔧 Backend Developer | PHP/Laravel | Linux SysAdmin  <br>
 📌 Creando APIs robustas y automatizando infraestructura.  
 </p>
 
