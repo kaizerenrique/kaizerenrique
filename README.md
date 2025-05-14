@@ -1,8 +1,8 @@
 <h1 align="center">¡Saludos! Mi nombre es Oliver Gomez</h1>
-<h3 align="center">Analista de Sistemas - Backend Developer</h3>
 
 <p align="left">
-  ¡Gracias por visitar mi perfil! Soy de Venezuela, específicamente del Estado Bolívar y como seguro has visto me llamo Oliver Gomez, desde joven me ha gustado la informática, así pues, que curse estudios universitarios en la carrera de Análisis y Diseño de Sistemas (TSU). 
+🔧 Backend Developer | PHP/Laravel | Linux SysAdmin  
+📌 Creando APIs robustas y automatizando infraestructura.  
 </p>
 
 <h3 align="left">Conectate conmigo:</h3>
